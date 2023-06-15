@@ -27,7 +27,6 @@ font-size: 1.5em;
 header.appendChild(logo);
 let menu = document.createElement("div");
 menu.className = "menu";
-menu.title = "Website Logo";
 menu.style.cssText = `
 display: flex;
 gap: 20px;
