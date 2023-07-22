@@ -1,5 +1,5 @@
 "use strict";
-document.title = "Project 1";
+document.title = "project-js-1";
 document.body.style.cssText = `
 margin: 0; 
 padding: 0; 
